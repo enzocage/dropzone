@@ -1,3 +1,5 @@
+![Dropzone Titel](Dropzone-Titel.gif)
+
 # IO — Dropzone Ultimate Edition
 
 A retro-style side-scrolling rescue game inspired by classic Commodore 64 titles. Pilot your jet across a procedurally-generated wraparound landscape, rescue scientists from the surface, and return them to base — all while fending off waves of hostile aliens.
